@@ -1,0 +1,11 @@
+{
+  "name": "TestReactNative",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/boliveira/TestReactNativeApp.git",
+  "license": "MIT",
+  "dependencies": {
+    "react-native-svg": "^11.0.1",
+    "react-native-webview": "^8.0.4"
+  }
+}
