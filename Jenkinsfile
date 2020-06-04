@@ -1,4 +1,4 @@
-echo "Teste"
+echo "Teste222222"
 
 // Generate Changelog
 String getChangeString() {
